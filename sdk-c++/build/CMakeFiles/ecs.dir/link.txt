@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall -std=c++11  -rdynamic CMakeFiles/ecs.dir/ecs.cpp.o CMakeFiles/ecs.dir/io.cpp.o CMakeFiles/ecs.dir/predict.cpp.o  -o /home/tympn/workspace/2018华为软件精英挑战赛资料汇总/testdata/bin/ecs 

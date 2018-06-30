@@ -1,0 +1,3 @@
+/home/tympn/workspace/2018华为软件精英挑战赛资料汇总/testdata/build/CMakeFiles/rebuild_cache.dir
+/home/tympn/workspace/2018华为软件精英挑战赛资料汇总/testdata/build/CMakeFiles/ecs.dir
+/home/tympn/workspace/2018华为软件精英挑战赛资料汇总/testdata/build/CMakeFiles/edit_cache.dir
